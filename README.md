@@ -1,5 +1,5 @@
 # Easy-Glass-in-Unity-URP
-Let's create an easy Glass Shader for Unity URP. Make sure to enable Opaque textures in your URP settings.
+Let's create Glass Shader for Unity URP. Make sure to enable Opaque textures in your URP settings.
 
 ✅ Golomoder Youtube: https://www.youtube.com/c/GolomOder
 
@@ -19,3 +19,4 @@ Here we have many examples of game making , Art , NFT .
 
 --------------------------------------------------------------------
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Y_7I1xvfQn8/0.jpg)](http://www.youtube.com/watch?v=Y_7I1xvfQn8)
